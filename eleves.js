@@ -1,0 +1,12 @@
+televes[0]="001;1;6-01;RAKOTO;12/12/2016;Antananarivo;M;67 ha;photo1.jpg";
+televes[1]="002;2;6-01;MARIE;12/12/2000;Androy;F;Anaty ala;photo2.jpg";
+televes[2]="003;3;6-01;RIJA;12/12/1993;Androy;M;Akorabato;photo3.jpg";
+televes[3]="004;4;6-02;RASOA;12/2/2009;Androy;F;Antanimalandy;photo4.jpg";
+televes[4]="005;5;6-02;TANIAH;12/05/1999;Androy;F;Antanimasaja;photo5.jpg";
+televes[5]="006;6;6-02;KOLOINA;2/2/2009;Andriba;M;Hell ville;photo6.jpg";
+televes[6]="007;7;5-01;JOHN;2/1/1995;Mangoky;M;Tsaramandroso;photo7.jpg";
+televes[7]="008;8;5-01;BRAIANE;2/1/1995;Manakara;M;Ambilobe;photo8.jpg";
+televes[8]="009;9;5-01;STEPHANIE;8/1/1994;Andreba;F;Alaotra;photo9.jpg";
+televes[9]="010;10;5-02;STELAH;8/12/1999;Analalava;F;Tsararano;photo10.jpg";
+televes[10]="011;11;5-02;BAKOLY;8/10/1991;Antanetybe;F;Andapa;photo11.jpg";
+televes[11]="012;12;5-02;BOB;8/10/1993;Androy;M;Las vegas;photo12.jpg";
